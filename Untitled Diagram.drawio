@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T02:42:37.337Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GcAWh0h0G34AIkpFnm7q" version="24.0.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-13T03:06:44.655Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zf32FhXn7oFwIGKQh7KL" version="24.0.5" type="github" pages="4">
   <diagram name="Alur-admin" id="3B5nQ8V0MnKZ4430W06P">
     <mxGraphModel dx="1257" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -543,7 +543,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FELOrpUP0n-TTe-rVJm2-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="410" height="740" as="geometry" />
+          <mxGeometry x="40" y="60" width="360" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="FELOrpUP0n-TTe-rVJm2-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=#99cc00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="340" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
