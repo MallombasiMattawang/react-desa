@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T02:29:07.720Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1l4-pZGsnoWT5ZR4GimH" version="24.0.5" type="github" pages="2">
-  <diagram name="Page-1" id="3B5nQ8V0MnKZ4430W06P">
+<mxfile host="app.diagrams.net" modified="2024-03-13T02:33:18.293Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ju4VTFbB4Tp_381J8N1P" version="24.0.5" type="github" pages="2">
+  <diagram name="Alur-admin" id="3B5nQ8V0MnKZ4430W06P">
     <mxGraphModel dx="1257" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -313,7 +313,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="V5a9q3N-_Cs_EO9jYYTK" name="Page-2">
+  <diagram id="V5a9q3N-_Cs_EO9jYYTK" name="Alur-web">
     <mxGraphModel dx="1100" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
